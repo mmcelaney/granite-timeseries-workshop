@@ -1,11 +1,11 @@
 # Project information
-site_name: Granite Time-series Workshop
+site_name: Granite Time Series Workshop
 site_url: https://ibm-granite-community.github.io/granite-timeseries-workshop
-site_author: IBM Developer
+site_author: IBM Research
 
 # Repository
 repo_name: granite-timeseries-workshop
-repo_url: https://github.com/IBM-granite-community/granite-timeseries-workshop
+repo_url: https://github.com/ibm-granite-community/granite-timeseries-workshop
 edit_uri: edit/main/docs
 
 # Navigation
@@ -26,7 +26,7 @@ nav:
 ## DO NOT CHANGE BELOW THIS LINE
 
 # Copyright
-copyright: Copyright &copy; 2025- IBM Developer
+copyright: Copyright &copy; 2025- IBM Research
 
 # Theme
 theme:
@@ -39,7 +39,9 @@ theme:
   logo: images/ibm-blue-background.png
   features:
     - navigation.tabs
+    - navigation.footer
     #- navigation.instant
+    - content.code.copy
   palette:
     scheme: default
     primary: blue
@@ -49,6 +51,8 @@ theme:
 plugins:
   - search
   - social
+  - macros:
+      on_undefined: strict
 
 # Customization
 extra:
@@ -63,7 +67,7 @@ extra:
       link: https://www.youtube.com/user/developerworks
     - icon: fontawesome/brands/dev
       link: https://dev.to/ibmdeveloper
-  colab_url: https://colab.research.google.com/github/IBM-granite-community/granite-timeseries-workshop  
+  colab_url: https://colab.research.google.com/github/ibm-granite-community/granite-timeseries-workshop
 
 # Extensions
 markdown_extensions:
@@ -83,8 +87,8 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
@@ -97,7 +101,8 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
