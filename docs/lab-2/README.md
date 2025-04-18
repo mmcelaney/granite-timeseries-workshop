@@ -1,3 +1,9 @@
+---
+title: Granite Timeseries Workshop Lab 2
+description: Energy Demand Forecasting - Preprocessing and Performance Evaluation
+logo: images/ibm-blue-background.png
+---
+
 # Energy Demand Forecasting - Preprocessing and Performance Evaluation
 
 TinyTimeMixers (TTMs) are compact pre-trained models for Multivariate Time-Series Forecasting, open-sourced by IBM Research. With less than 1 Million parameters, TTM introduces the notion of the first-ever "tiny" pre-trained models for Time-Series Forecasting. TTM outperforms several popular benchmarks demanding billions of parameters in zero-shot and few-shot forecasting and can easily be fine-tuned for multi-variate forecasts.
