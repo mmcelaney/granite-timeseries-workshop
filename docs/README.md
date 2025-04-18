@@ -16,7 +16,7 @@ By the end of this workshop, you will be able to:
 * Energy Demand Forecasting with Granite Timeseries - Preprocessor Use and Performance Evaluation
 * Energy Demand Forecasting with Granite Timeseries - Few-shot Fine-tuning and Evaluation
 * Transportation Demand Forecasting with Granite Time Series - Zero-shot Inference and Fine-tuning with Exogenous Inputs
-* Getting Started with Time Series Models on IBM WatsonX
+* Getting Started with Time Series Models on IBM watsonx
 * Retail Sales Forecasting using the M5 dataset with Granite Time Series - Few-shot finetuning, evaluation, and visualization
 
 ### About this workshop
