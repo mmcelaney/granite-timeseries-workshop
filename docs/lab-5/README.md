@@ -1,3 +1,9 @@
+---
+title: Granite Timeseries Workshop Lab 5
+description: Getting Started with Watson X AI SDK
+logo: images/ibm-blue-background.png
+---
+
 # Getting Started with Watson X AI SDK
 
 This lab demonstrates using the watsonx SDK to perform inference calls against a model hosted remotely on [watsonx](https://www.ibm.com/products/watsonx-ai).
