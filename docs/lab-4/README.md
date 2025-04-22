@@ -1,5 +1,5 @@
 ---
-title: Granite Timeseries Workshop Lab 4
+title: Granite Time Series Workshop Lab 4
 description: Bike Sharing Forecasting Zero-shot, Fine-tuning, and Performance Evaluation
 logo: images/ibm-blue-background.png
 ---
