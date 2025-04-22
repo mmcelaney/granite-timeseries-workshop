@@ -1,5 +1,5 @@
 ---
-title: Granite Timeseries Workshop Lab 3
+title: Granite Time Series Workshop Lab 3
 description: Energy Demand Forecasting - Few-shot Fine-tuning
 logo: images/ibm-blue-background.png
 ---
