@@ -1,5 +1,5 @@
 ---
-title: Granite Timeseries Workshop
+title: Granite Time Series Workshop
 description: Learn how to leverage the Granite Foundational Models
 logo: images/ibm-blue-background.png
 ---
@@ -12,12 +12,12 @@ demonstrates the value of [timeseries forecasting](https://www.ibm.com/think/ins
 
 By the end of this workshop, you will be able to:
 
-* Energy Demand Forecasting with Granite Timeseries (TTM)
-* Energy Demand Forecasting with Granite Timeseries - Preprocessor Use and Performance Evaluation
-* Energy Demand Forecasting with Granite Timeseries - Few-shot Fine-tuning and Evaluation
+* Energy Demand Forecasting with Granite Time Series (TTM)
+* Energy Demand Forecasting with Granite Time Series - Preprocessor Use and Performance Evaluation
+* Energy Demand Forecasting with Granite Time Series - Few-shot Fine-tuning and Evaluation
 * Transportation Demand Forecasting with Granite Time Series - Zero-shot Inference and Fine-tuning with Exogenous Inputs
 * Getting Started with Time Series Models on IBM watsonx
-* Retail Sales Forecasting using the M5 dataset with Granite Time Series - Few-shot finetuning, evaluation, and visualization
+* Retail Sales Forecasting using the M5 dataset with Granite Time Series - Few-shot fine tuning, evaluation, and visualization
 
 ### About this workshop
 
@@ -37,7 +37,7 @@ The introductory page of the workshop is broken down into the following sections
 | [Lab 3: Energy Demand Forecasting - Few-shot Fine-tuning](lab-3/README.md) | Learn about few-shot Fine-tuning. |
 | [Lab 4: Bike Sharing Forecasting - Zero-shot, Fine-tuning, and Performance Evaluation](lab-4/README.md) | Learn about zero-shot forecasting as well as fine-tunning using a Kaggle bike-sharing dataset. |
 | [Lab 5: Getting Started with Watson X AI SDK](lab-5/README.md) | Use the watsonx SDK to perform inference calls against a model hosted remotely on watsonx. |
-| [Lab 6: Retail Forecasting using M5 Sales Data - Few-shot, Fine-tuning, Evaluation, and Visualization](lab-6/README.md) | Explore timeseries forecasting using the IBM Granite Timeseries model to predict retail sales. |
+| [Lab 6: Retail Forecasting using M5 Sales Data - Few-shot, Fine-tuning, Evaluation, and Visualization](lab-6/README.md) | Explore time series forecasting using the IBM Granite Time Series model to predict retail sales. |
 
 ## Technology Used
 
@@ -51,7 +51,8 @@ The technology used in the workshop is as follows:
 * [Replicate](https://replicate.com/)
 
 ## Credits
+
 * [Joe Sepi](https://github.com/joesepi)
 * [Mo McElaney](https://github.com/mmcelaney)
-* The notebooks used in this workshop are versions of notebooks from the [IBM Granite Community](https://github.com/ibm-granite-community) modified for the workshop needs
 
+The notebooks used in this workshop are versions of notebooks from the [IBM Granite Community](https://github.com/ibm-granite-community) modified for the workshop needs
