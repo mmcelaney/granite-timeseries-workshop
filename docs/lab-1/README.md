@@ -1,5 +1,5 @@
 ---
-title: Granite Timeseries Workshop Lab 1
+title: Granite Time Series Workshop Lab 1
 description: Energy Demand Forecasting - Basic Inference
 logo: images/ibm-blue-background.png
 ---
