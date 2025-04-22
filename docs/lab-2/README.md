@@ -1,5 +1,5 @@
 ---
-title: Granite Timeseries Workshop Lab 2
+title: Granite Time Series Workshop Lab 2
 description: Energy Demand Forecasting - Preprocessing and Performance Evaluation
 logo: images/ibm-blue-background.png
 ---
