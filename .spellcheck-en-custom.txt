@@ -12,6 +12,8 @@ dataset
 datetime
 embeddings
 Embeddings
+finetuning
+Finetuning
 Hargrave
 Homebrew
 Huggingface
@@ -26,16 +28,21 @@ Kaggle
 Langchain
 LLM
 Macbook
+McElaney
 Milvus
 ollama
 Ollama
 png
 pre
 Pre
+preprocessing
+Preprocessing
+Preprocessor
 pretrained
 repo
 runtime
 scalability
+SDK
 Sepi
 summarization
 Summarization
@@ -43,6 +50,7 @@ TBD
 tbody
 th
 thead
+timeseries
 Timeseries
 tsfm
 TSFM
@@ -50,5 +58,6 @@ TTM
 TTMs
 url
 venv
+watsonx
 Zhao
 
