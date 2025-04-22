@@ -1,5 +1,5 @@
 ---
-title: Granite Timeseries Workshop Pre-work
+title: Granite Time Series Workshop Pre-work
 description: Preparation for the Granite Timeseries Workshop
 logo: images/ibm-blue-background.png
 ---
