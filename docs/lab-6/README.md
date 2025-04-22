@@ -1,12 +1,12 @@
 ---
-title: Granite Timeseries Workshop Lab 6
+title: Granite Time Series Workshop Lab 6
 description: Retail Sales Forecasting using the M5 dataset with Granite Time Series - Few-shot finetuning, evaluation, and visualization
 logo: images/ibm-blue-background.png
 ---
 
 # Retail Sales Forecasting using the M5 dataset with Granite Time Series - Few-shot finetuning, evaluation, and visualization
 
-In this tutorial, we will explore [timeseries forecasting](https://www.ibm.com/think/insights/time-series-forecasting) using the [IBM Granite](https://ibm.com/granite) Timeseries model to predict retail sales. We will cover key techniques such as few-shot forecasting and fine-tuning. We are using [M5 datasets](https://drive.google.com/drive/folders/1D6EWdVSaOtrP1LEFh1REjI3vej6iUS_4?usp=sharing) from the official [M-Competitions repository](https://github.com/Mcompetitions/M5-methods) to forecast future sales aggregated by state. The aim of this recipe is to showcase how to use a pre-trained time series foundation model for multivariate forecasting and explores various features available with Granite Time Series Foundation Models.
+In this tutorial, we will explore [time series forecasting](https://www.ibm.com/think/insights/time-series-forecasting) using the [IBM Granite](https://ibm.com/granite) Timeseries model to predict retail sales. We will cover key techniques such as few-shot forecasting and fine-tuning. We are using [M5 datasets](https://drive.google.com/drive/folders/1D6EWdVSaOtrP1LEFh1REjI3vej6iUS_4?usp=sharing) from the official [M-Competitions repository](https://github.com/Mcompetitions/M5-methods) to forecast future sales aggregated by state. The aim of this recipe is to showcase how to use a pre-trained time series foundation model for multivariate forecasting and explores various features available with Granite Time Series Foundation Models.
 
 This lab uses TinyTimeMixers (TTMs), which are compact pre-trained models for Multivariate Time-Series Forecasting, open-sourced by IBM Research. With less than 1 Million parameters, TTM introduces the notion of the first-ever "tiny" pre-trained models for Time-Series Forecasting. TTM outperforms several popular benchmarks demanding billions of parameters in zero-shot and few-shot forecasting and can easily be fine-tuned for multivariate forecasts.
 
