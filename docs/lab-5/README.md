@@ -1,5 +1,5 @@
 ---
-title: Granite Timeseries Workshop Lab 5
+title: Granite Time Series Workshop Lab 5
 description: Getting Started with Watson X AI SDK
 logo: images/ibm-blue-background.png
 ---
